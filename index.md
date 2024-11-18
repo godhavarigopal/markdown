@@ -19,3 +19,5 @@ Fetch user information by user ID.
     email
   }
 }
+[API1 Documentation](api1.md)
+[API2 Documentation](api2.md)
